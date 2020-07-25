@@ -1,0 +1,35 @@
+* {
+    background-color: #f7f4f1;
+}
+
+.header {
+    width: 960px;
+    height: 300px;
+}
+
+.main {
+    margin-left: 125px;
+}
+
+body {
+    padding: 20px;
+}
+
+.me {
+    border: 2px solid #9f4b2c;
+}
+
+h1, h2, h3 {
+    font-family: 'Lexend Zetta', sans-serif;
+    color: #9f4b2c;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+}
+
+ul, li {
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+}
